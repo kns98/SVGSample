@@ -1,4 +1,4 @@
 Free sample SVGs
 
-Chinese Landscape with artistic touch.
-Dinosaur
+1. Chinese Landscape with artistic touch.
+2. Dinosaur
